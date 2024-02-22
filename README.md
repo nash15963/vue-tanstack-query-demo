@@ -1,4 +1,9 @@
 # wifiDemo
+[demo](https://wifi-demo.vercel.app/)
+
+1. 設定會有50%機率網路失敗
+2. 可以關閉網路測試是否連線
+3. 背景執行 query
 
 This template should help get you started developing with Vue 3 in Vite.
 
